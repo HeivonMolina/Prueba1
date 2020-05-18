@@ -21,8 +21,8 @@
     <color name="colorAccent">#F0514B</color>
 
     <!-- Primary color for the editor -->
-    <color name="editorColorPrimary">#2D3640</color>
+    <color name="editorColorPrimary">#504E4E</color>
 
     <!-- Primary dark color for the editor -->
-    <color name="editorColorPrimaryDark">#394450</color>
+    <color name="editorColorPrimaryDark">#5C5959</color>
 </resources>
